@@ -10,4 +10,4 @@
 2. ```npm run dev``` for development or ```npm run build``` for production
 # Run Server
 1. ```php artisan serve```
-2. Open browser and type localhost:8000 in your browser.
+2. Open browser and go to localhost:8000.
