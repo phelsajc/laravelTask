@@ -1,6 +1,6 @@
 # LaravelTask
- Laravel Task is a task project from Privacy Ninja.
-# Config file
+ Laravel Task is a task project from Privacy Ninja. In used Laravel/ui for scaffolding.
+# Config Environment
 1. Set up database credentials in  ```.env``` file
 # Database
 1. Migrate database ```php artisan migrate```
